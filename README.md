@@ -1,2 +1,1 @@
-# CSE-337-Assignment2
-For BeerSong assignment.
+The purpose of this project is to demonstrate my understanding of and ability to use GIT for managing my project codebase.
